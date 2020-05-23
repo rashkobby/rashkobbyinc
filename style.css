@@ -7,7 +7,7 @@
 
 }
 
-body{
+.body{
     background-color: rgba(41, 38, 41, 0.616);
     background-image: url(images/portfolio2.jpg);
     background-repeat: no-repeat;
@@ -17,7 +17,7 @@ body{
 
 header{
     display: flex;
-    background-color: rgb(128, 202, 202);
+    background-color: rgb(68, 23, 126);
     box-shadow: black;
     opacity: 0.8;
     
@@ -62,7 +62,7 @@ header{
     margin: 9px;
     padding: 8px;
     font-size: 15px;
-    color: rgb(68, 23, 126);
+    color: darkgrey
     
 
 
@@ -74,13 +74,13 @@ header{
     margin-left: 30px;
     font-size: 20px;
     padding: 8px;
-    color: rgb(68, 23, 126);
+    color: darkgrey;
     word-spacing: 10px;
 
 }
 
 .nav-bar-right a:hover{
-    color: whitesmoke;
+    color: cyan;
 }
 
 .main-content{
